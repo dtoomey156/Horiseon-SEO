@@ -4,4 +4,4 @@ The purpose of this project is to modify existing web design html for accessibil
 
 https://dtoomey156.github.io/Horiseon-SEO/
 
-![Horiseon SEO](assets/images/Horiseon Code Refactor.jpj)
+![Horiseon SEO](images/Horiseon Code Refactor.jpj)
